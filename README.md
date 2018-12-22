@@ -22,7 +22,7 @@ Jump to the project root directory and execute below commands:
 ```
 docker-compose up -d elasticseach
 ```
-Above command will start elasticsearch docker container. You can check the elasticsearch status hitting: `http://localhost:9200`
+Above command will start elasticsearch docker container. You can check the elasticsearch status from browser using: `http://localhost:9200`
 
 And then run the application using:
 ```
